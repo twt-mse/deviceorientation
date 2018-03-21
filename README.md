@@ -1,2 +1,7 @@
 # deviceorientation
-testproject to pack a threejs demo in a cordova container and check the functionality of the deviceorientation event.
+Testproject to pack the threejs deviceorientation example in a cordova container..
+
+The project is based on the example in the following link:
+https://threejs.org/examples/misc_controls_deviceorientation.html
+
+All credits go to threejs.
